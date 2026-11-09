@@ -57,7 +57,9 @@ No fluff, no paid placements, no "5000 tools" dumps. Every entry below earned it
 | Synthesia | Corporate training video | Reliable for studio-quality avatars at scale |
 | Descript | Editing video by editing text | The fastest way to cut podcasts and talking-head videos |
 | Kling | Longer, coherent generation | Strong results for multi-second motion |
+| [Cyanvid](https://cyanvid.com/?utm_source=wni05589-jpg-ai-tools-curated&utm_medium=directory&utm_campaign=backlinks) | Text or image to video | AI video generator from text or images; credit quotes before generate |
 | CapCut | Free editing + AI assists | The practical choice for short-form content |
+| [Barz Studio](https://barzvideo.com/?utm_source=wni05589-jpg-ai-tools-curated&utm_medium=directory&utm_campaign=backlinks) | Rap lyric videos & captions | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM |
 
 ## Audio & Voice
 
